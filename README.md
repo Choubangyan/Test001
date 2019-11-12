@@ -1,2 +1,2 @@
 # Test001
-This project is a practise.
+This is a test project
